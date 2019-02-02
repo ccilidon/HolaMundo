@@ -2,4 +2,5 @@ REM mi primer programa
 CLS
 PRINT "Hola Mundo";
 PRINT "Con el primer intento";
+PRINT "Con el segundo intento";
 END
