@@ -1,0 +1,4 @@
+REM mi primer programa
+CLS
+PRINT "Hola Mundo";
+END
